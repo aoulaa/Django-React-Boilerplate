@@ -1,0 +1,15 @@
+backend/.idea
+.venv
+*.pyc
+.DS_Store
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tags
+pytest.ini
+data
+.env
+.envrc
+.coverage
+.idea
+mount
+logs
